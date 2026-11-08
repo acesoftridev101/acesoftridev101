@@ -5,6 +5,8 @@
   <img src="./gdi-banner.svg" alt="Profile Banner" width="100%" length="100%" />
   <img src="./file.svg" alt="another profile banner" width="100%" length="100%" />
   <img src="./nother background.png" alt="another another profile banner" width="100%" length="100%" />
+  <img src="./top-langs.svg" alt="my programming languages I use mostly" width="100%" length="100%" />
+  <img src="./stats.svg" alt="my stats on github" width="100%" length="100%" />
 </div>
 
 <br />
