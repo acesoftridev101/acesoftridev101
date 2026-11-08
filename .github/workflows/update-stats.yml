@@ -2,8 +2,8 @@ name: Update README Stats
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs daily at midnight UTC
-  workflow_dispatch: # Allows manual runs from the Actions tab
+    - cron: "0 0 * * *"
+  workflow_dispatch: 
 
 permissions:
   contents: write
@@ -19,20 +19,20 @@ jobs:
         with:
           token: ${{ secrets.PROFILE_STATS_TOKEN }}
           card: stats
-          options: "username=acesoftridev101&show_icons=true&count_private=true&theme=tokyonight"
-          path: profile/stats.svg
+          options: "username=${{ github.repository_owner }}&show_icons=true&count_private=true&theme=tokyonight"
+          path: stats.svg
 
       - name: Generate Top Languages Card
         uses: stats-organization/github-readme-stats-action@v2
         with:
           token: ${{ secrets.PROFILE_STATS_TOKEN }}
           card: top-langs
-          options: "username=acesoftridev101&layout=compact&theme=tokyonight"
-          path: profile/top-langs.svg
+          options: "username=${{ github.repository_owner }}&layout=compact&theme=tokyonight"
+          path: top-langs.svg
 
       - name: Commit generated SVGs
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@://github.com"
-          git add profile/
+          git add stats.svg top-langs.svg
           git diff --quiet && git diff --staged --quiet || (git commit -m "Update GitHub stats SVGs" && git push)
