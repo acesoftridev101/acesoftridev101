@@ -25,13 +25,6 @@
         <li>I had an account on a different platform. I forgot what it's called but when I was posting another file I got flagged for life. That's why I'm here on GitHub.</li>
       </ul>
     </td>
-    
-    <td width="50%" valign="top" align="center">
-      <h3>📊 GitHub Stats</h3>
-      <img src="https://vercel.app" alt="GitHub Stats" width="100%" />
-    </td>
-  </tr>
-</table>
 
 <hr />
 
