@@ -16,7 +16,7 @@
         <li>🔭 Currently working on web development projects</li>
         <li>🌱 Learning new frameworks and tools</li>
         <li>💬 Ask me about batch, c++, HTml, and Assembly.</li>
-        <li>📫 Reach me at: <b>your.email@example.com</b></li>
+        <li>📫 Reach me at: <b>whipkeyrichard388@gmail.com</b></li>
       </ul>
     </td>
     
