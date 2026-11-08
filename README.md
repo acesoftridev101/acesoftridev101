@@ -1,4 +1,4 @@
-## Hi there
+## Hi there I am acesoftridev101, I prefer you call me the ace.
 
 <!-- Layered PNG Background Banner -->
 <div align="center">
@@ -16,7 +16,7 @@
       <ul>
         <li>🔭 Currently working on web development projects</li>
         <li>🌱 Learning new frameworks and tools</li>
-        <li>💬 Ask me about batch, c++, HTml, and Assembly.</li>
+        <li>💬 Ask me about batch, c++, HTMl, and Assembly. Or don't ask me anything, but if you need you can tell me , and remember you can use ai and nobody will notice.</li>
         <li>📫 Reach me at: <b>whipkeyrichard388@gmail.com</b></li>
       </ul>
     </td>
@@ -42,3 +42,4 @@
 
   <img src="https://shields.io" alt="Git" />
 </div>
+
