@@ -3,7 +3,7 @@
 <!-- Layered PNG Background Banner -->
 <div align="center">
   <img src="./file.svg" alt="Profile Banner" width="100%" />
-  <img src="./background.jpg" alt="Another profile banner" width="100%" />
+  <img src="./nother background.png" alt="Another profile banner" width="100%" />
 </div>
 
 <br />
