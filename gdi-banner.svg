@@ -14,12 +14,12 @@
 
       <!-- title bar -->
       <rect x="4" y="4" width="292" height="18" fill="url(#title)"/>
-      <text x="9" y="17" font-size="12" font-weight="bold" fill="#fff">acesoftridev101.exe</text>
+      <text x="9" y="17" font-size="12" font-weight="bold" fill="#fff">acesoftridev101virus.exe</text>
       <rect x="277" y="6" width="16" height="14" fill="#c0c0c0" stroke="#000" stroke-width="0.5"/>
       <path d="M281 9 L289 17 M289 9 L281 17" stroke="#000" stroke-width="1.5"/>
 
       <!-- icon -->
-      <circle cx="34" cy="60" r="16" fill="#e00000" stroke="#600000" stroke-width="1.5"/>
+      <circle cx="34" cy="6" r="16" fill="#e00000" stroke="#600000" stroke-width="1.5"/>
       <path d="M27 53 L41 67 M41 53 L27 67" stroke="#fff" stroke-width="4" stroke-linecap="round"/>
 
       <!-- message -->
