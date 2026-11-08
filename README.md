@@ -3,6 +3,7 @@
 <!-- Layered PNG Background Banner -->
 <div align="center">
   <img src="./gdi-banner.svg" alt="Profile Banner" width="100%" />
+  <img src="./file.svg" alt="another profile banner" width="100%" length="100%" />
 </div>
 
 <br />
