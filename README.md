@@ -2,7 +2,7 @@
 
 <!-- Layered PNG Background Banner -->
 <div align="center">
-  <img src="./gdi-banner.svg" alt="Profile Banner" width="100%" />
+  <img src="./gdi-banner.svg" alt="Profile Banner" width="100%" length="100%" />
   <img src="./file.svg" alt="another profile banner" width="100%" length="100%" />
   <img src="./nother background.png" alt="another another profile banner" width="100%" length="100%" />
 </div>
@@ -15,10 +15,12 @@
     <td width="50%" valign="top">
       <h3>⚡ About Me</h3>
       <ul>
-        <li>🔭 Currently working on web development projects</li>
+        <li>🔭 Not really working on any projects rn bruh.</li>
         <li>🌱 Learning new frameworks and tools</li>
-        <li>💬 Ask me about batch, c++, HTMl, and Assembly. Or don't ask me anything, but if you need you can tell me , and remember you can use ai and nobody will notice.</li>
-        <li>📫 Reach me at: <b>whipkeyrichard388@gmail.com</b></li>
+        <li>💬 Ask me about batch, c++, HTMl, OR Assembly. Or don't ask me anything, but if you need you can tell me , and remember you can use ai and nobody will notice.</li>
+        <li>📫 Reach me at: <b>whipkeyrichard388@gmail.com</li>
+        <li>I made the operating system called "ArtsaOs." Since the name AstraOs was took i reversed Astra and made Artsa. That's why its named ArtsaOs.</li>
+        <li>I had an account on a different platform. I forgot what it's called but when I was posting another file I got flagged for life. That's why I'm here on GitHub.</li>
       </ul>
     </td>
     
