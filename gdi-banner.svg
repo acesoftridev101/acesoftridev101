@@ -19,7 +19,7 @@
       <path d="M281 9 L289 17 M289 9 L281 17" stroke="#000" stroke-width="1.5"/>
 
       <!-- icon -->
-      <circle cx="34" cy="6" r="16" fill="#e00000" stroke="#600000" stroke-width="1.5"/>
+      <circle cx="34" cy="60" r="16" fill="#e00000" stroke="#600000" stroke-width="1.5"/>
       <path d="M27 53 L41 67 M41 53 L27 67" stroke="#fff" stroke-width="4" stroke-linecap="round"/>
 
       <!-- message -->
