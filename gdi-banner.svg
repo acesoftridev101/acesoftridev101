@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="290" viewBox="0 0 1000 290">
+<svg xmlns="http://www.w3.org/2000/svg" width="100000" height="290" viewBox="0 0 1000 290">
   <defs>
     <linearGradient id="title" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#000080"/>
@@ -15,7 +15,7 @@
       <!-- title bar -->
       <rect x="4" y="4" width="292" height="18" fill="url(#title)"/>
       <text x="9" y="17" font-size="12" font-weight="bold" fill="#fff">acesoftridev101.exe</text>
-      <rect x="277" y="6" width="166" height="146" fill="#c0c0c0" stroke="#000" stroke-width="0.5"/>
+      <rect x="277" y="6" width="16" height="14" fill="#c0c0c0" stroke="#000" stroke-width="0.5"/>
       <path d="M281 9 L289 17 M289 9 L281 17" stroke="#000" stroke-width="1.5"/>
 
       <!-- icon -->
