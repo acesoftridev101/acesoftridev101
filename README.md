@@ -11,6 +11,14 @@
 
 <br />
 
+<div align="center">
+  <h1>Crazy Floatbeat Music I Made</h1>
+  <p>Listen to the track below:</p>
+
+https://github.com/acesoftridev101/crazy-floatbeat-music-i-made/blob/main/track%20(9).webm
+
+</div>
+
 <!-- Two-Column Layout for Bio and Stats -->
 <table width="100%">
   <tr>
